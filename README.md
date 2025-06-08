@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey there, I'm Hitansh Waghela
 
-<!--
-**Hitansh1601/Hitansh1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** | 🔐 Cybersecurity Learner | 🤖 AI/ML Explorer | 🎨 UI/UX Designer | 🌐 Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate second-year Computer Engineering student from Mumbai University with a keen interest in blending **security, intelligence, and creativity**.
+
+I spend my time building:
+- 🔒 Secure systems using cybersecurity best practices
+- 🧠 ML models that solve real-world problems
+- 🎨 UI/UX prototypes using Figma
+- 🛠️ Full-stack web applications (Flask + DevSecOps)
+
+Currently exploring **DevSecOps** and growing my portfolio through hands-on projects, blogging, and community engagement.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+- **Languages:** Python, HTML, CSS, JavaScript, Bash  
+- **Cybersecurity:** TryHackMe, Nmap, Wireshark, Burp Suite  
+- **AI/ML:** Scikit-learn, Pandas, NumPy, Streamlit  
+- **UI/UX:** Figma, Adobe XD, Design Thinking  
+- **Dev Tools:** Git, GitHub, GitHub Actions, Heroku, VS Code
+
+
+
+## 📫 Let's Connect
+
+- 📩 [Email](mailto:whitansh@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hitansh-waghela-99554a274/)
+- 🖥️ [GitHub Projects](https://github.com/Hitansh1601)
+
