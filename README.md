@@ -20,11 +20,11 @@ Currently exploring **DevSecOps** and growing my portfolio through hands-on proj
 
 ## 🧰 Tech Stack & Tools
 
-- **Languages:** Python, HTML, CSS, JavaScript, Bash  
+- **Languages:** Python, HTML, CSS, JavaScript
 - **Cybersecurity:** TryHackMe, Nmap, Wireshark, Burp Suite  
 - **AI/ML:** Scikit-learn, Pandas, NumPy, Streamlit  
 - **UI/UX:** Figma, Adobe XD, Design Thinking  
-- **Dev Tools:** Git, GitHub, GitHub Actions, Heroku, VS Code
+- **Dev Tools:** Git, GitHub, GitHub Actions, VS Code
 
 
 
