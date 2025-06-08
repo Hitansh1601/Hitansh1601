@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate second-year Computer Engineering student from Mumbai University with a keen interest in blending **security, intelligence, and creativity**.
+I'm a passionate Computer Engineering student from Mumbai University with a keen interest in blending **security, intelligence, and creativity**.
 
 I spend my time building:
 - 🔒 Secure systems using cybersecurity best practices
