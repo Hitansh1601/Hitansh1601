@@ -14,7 +14,7 @@
 **Threat Intelligence:** MITRE ATT&CK, OSINT (WHOIS, DNS, Shodan, crt.sh), Neo4j Graph Analysis  
 **Forensics & CTF:** Network forensics, steganography, cryptography, reverse engineering  
 **Tools:** Nmap, Wireshark, Burp Suite, OpenVAS, Nessus, Wazuh  
-**Languages:** Python, Bash, KQL, SPL  
+**Languages:** Python, Bash  
 
 ---
 
