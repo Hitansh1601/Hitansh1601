@@ -28,7 +28,7 @@ Python tool that aggregates threat intelligence from WHOIS, DNS, crt.sh, Shodan,
 Simulated cloud attack scenarios (EC2, S3, IAM misconfigurations) with full detection pipeline: GuardDuty → CloudTrail → EventBridge → Lambda SOAR remediation.  
 `AWS` `GuardDuty` `CloudTrail` `Lambda` `SOAR` `IAM`
 
-### 🖥️ [Windows Security Monitoring Lab](https://github.com/Hitansh1601/Mini-SIEM-Threat-Detection-System)
+### 🖥️ [Windows Security Monitoring Lab]
 Wazuh SIEM deployment on VMware: Sysmon, PowerShell, Windows Defender, FIM, registry monitoring — attacked from Kali Linux, detected and alerted.  
 `Wazuh` `Sysmon` `SIEM` `VMware` `Blue Team`
 
