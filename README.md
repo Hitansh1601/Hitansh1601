@@ -24,7 +24,7 @@
 Python tool that aggregates threat intelligence from WHOIS, DNS, crt.sh, Shodan, and GitHub APIs — stores and visualizes relationships in Neo4j AuraDB graph database.  
 `Python` `Neo4j` `Shodan API` `OSINT` `Graph Analysis`
 
-### ☁️ AWS Cloud Threat Detection & Automated Response
+### ☁️ [AWS Cloud Threat Detection & Automated Response](https://github.com/Hitansh1601/AWS-cloud-threat-detection-auto-response)
 Simulated cloud attack scenarios (EC2, S3, IAM misconfigurations) with full detection pipeline: GuardDuty → CloudTrail → EventBridge → Lambda SOAR remediation.  
 `AWS` `GuardDuty` `CloudTrail` `Lambda` `SOAR` `IAM`
 
