@@ -40,7 +40,7 @@ Wazuh SIEM deployment on VMware: Sysmon, PowerShell, Windows Defender, FIM, regi
 - 📜 Google Cloud Cybersecurity Certificate
 - 📜 Neo4j GraphAcademy Certified
 - 📜 Cisco NetAcad 
-- 🔬 Active on TryHackMe: [tryhackme.com/p/hitansh1601](https://tryhackme.com/p/hitansh1601)
+- 🔬 Active on TryHackMe: [tryhackme.com/p/hitansh1601](https://tryhackme.com/p/whitansh)
 
 ---
 
